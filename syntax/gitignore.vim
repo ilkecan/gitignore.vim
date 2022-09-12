@@ -47,7 +47,7 @@ syn keyword	gitignoreTodo
 " pattern
 highlight link gitignoreBrackets Delimiter
 highlight link gitignoreDirSeparator Delimiter
-highlight link gitignoreEscapedCharacter gitignorePattern
+highlight link gitignoreEscapedCharacter SpecialChar
 highlight link gitignoreGroup Character
 highlight link gitignorePattern Constant
 highlight link gitignorePrefix SpecialChar
